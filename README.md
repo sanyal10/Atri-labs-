@@ -1,2 +1,1 @@
-# Atri-labs-
-Assignment: Web page using Atri framework
+Food Ordering App landing page using Atri framework
